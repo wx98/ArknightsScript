@@ -1,0 +1,11 @@
+tap:260.40
+slp:1
+tap:100.320
+slp:2
+tap:900.670
+slp:2
+tap:2360.160
+slp:2
+lop:20/tap:1300.160/slp:2/tap:720.720/slp:1
+tap:965.40
+lop:20/tap:1300.160/slp:2/tap:720.720/slp:1
